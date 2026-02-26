@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1096.592,
+      "y": 335.11365
+    },
+    "is_timer_enabled": true,
+    "timer_interval": 75,
+    "name": "b2sflash",
+    "backglass": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Kicker": {
+    "center": {
+      "x": -1547.8313,
+      "y": 836.61676
+    },
+    "radius": 25.0,
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "material": "Plastic",
+    "surface": "",
+    "is_enabled": false,
+    "name": "KickerOLD",
+    "kicker_type": "cup",
+    "scatter": 0.0,
+    "hit_accuracy": 0.7,
+    "hit_height": 40.0,
+    "orientation": 0.0,
+    "fall_through": false,
+    "legacy_mode": false
+  }
+}

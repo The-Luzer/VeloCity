@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1190.6705,
+      "y": 173.73651
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 2000,
+    "name": "CreateMultiballTimer",
+    "backglass": false
+  }
+}

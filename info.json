@@ -1,0 +1,15 @@
+{
+  "table_name": "Orbital Framework Beta",
+  "author_name": "ScottyWic",
+  "table_blurb": "A framework built to help more aspiring pinball designers create original tables.",
+  "table_rules": null,
+  "author_email": null,
+  "release_date": null,
+  "table_save_rev": "539",
+  "table_version": ".1",
+  "author_website": "orbitalpin.com",
+  "table_save_date": "Tue Feb 10 15:36:19 2026",
+  "table_description": "Press C to enable manual Ball Control via the arrow keys and B",
+  "properties": {},
+  "properties_order": []
+}

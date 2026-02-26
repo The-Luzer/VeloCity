@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1185.1207,
+      "y": 218.92175
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 3000,
+    "name": "InstantInfoTimer",
+    "backglass": false
+  }
+}

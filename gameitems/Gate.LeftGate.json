@@ -1,0 +1,30 @@
+{
+  "Gate": {
+    "center": {
+      "x": 60.0,
+      "y": 675.0
+    },
+    "length": 95.0,
+    "height": 50.0,
+    "rotation": 35.0,
+    "material": "Metal Gold",
+    "is_timer_enabled": false,
+    "show_bracket": true,
+    "is_collidable": true,
+    "timer_interval": 100,
+    "imgf": null,
+    "imgb": null,
+    "surface": "",
+    "elasticity": 0.3,
+    "angle_max": 1.5707964,
+    "angle_min": 0.0,
+    "friction": 0.02,
+    "damping": 0.985,
+    "gravity_factor": 0.25,
+    "is_visible": true,
+    "name": "LeftGate",
+    "two_way": false,
+    "is_reflection_enabled": true,
+    "gate_type": "wire_w"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "HitTarget": {
+    "position": {
+      "x": 2131.6646,
+      "y": 1143.4679,
+      "z": -0.0
+    },
+    "size": {
+      "x": 35.0,
+      "y": 32.0,
+      "z": 40.0
+    },
+    "rot_z": 16.0,
+    "image": "",
+    "target_type": "hit_target_slim",
+    "name": "barb4",
+    "material": "Plastic with an image lpf",
+    "is_visible": false,
+    "is_legacy": false,
+    "use_hit_event": true,
+    "threshold": 1.0,
+    "elasticity": 0.4,
+    "elasticity_falloff": 0.0,
+    "friction": 0.3,
+    "scatter": 1.0,
+    "is_collidable": true,
+    "disable_lighting_top_old": 0.0,
+    "disable_lighting_top": null,
+    "disable_lighting_below": 0.0,
+    "depth_bias": 0.0,
+    "is_reflection_enabled": false,
+    "is_dropped": false,
+    "drop_speed": 0.5,
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "raise_delay": 100,
+    "physics_material": "",
+    "overwrite_physics": true
+  }
+}

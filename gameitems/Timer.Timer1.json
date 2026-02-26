@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1110.0265,
+      "y": -26.988037
+    },
+    "is_timer_enabled": true,
+    "timer_interval": 50,
+    "name": "Timer1",
+    "backglass": false
+  }
+}

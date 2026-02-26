@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1149.6312,
+      "y": 637.39996
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 10,
+    "name": "Toysbouncing",
+    "backglass": false
+  }
+}

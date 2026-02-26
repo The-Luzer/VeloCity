@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1258.926,
+      "y": 379.18518
+    },
+    "is_timer_enabled": true,
+    "timer_interval": 100,
+    "name": "xmastime",
+    "backglass": false
+  }
+}

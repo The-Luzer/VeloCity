@@ -1,0 +1,387 @@
+[
+  {
+    "name": "Scratches",
+    "path": "C:\\Models\\Scratches.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "spinner",
+    "path": "C:\\UPin\\spinner.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "sidewood._h",
+    "path": "C:\\UPin\\sidewood_h.png",
+    "alpha_test_value": 128.0,
+    "jpeg_name": "sidewood_h"
+  },
+  {
+    "name": "sidewood",
+    "path": "C:\\UPin\\sidewood.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "p1-beachwood",
+    "path": "E:\\pinballArtwork\\PBTextures\\p1-beachwood.jpg",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "JPBall-Dark2",
+    "path": "E:\\Pinball\\Tables\\Balls\\JPBall-Dark2.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "aluminum",
+    "path": "E:\\Pinball\\Tables\\!Fire\\Images\\aluminum.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "metal3",
+    "path": "E:\\Pinball\\Tables\\!Fire\\Images\\metal3.jpg",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "purple peg",
+    "path": "E:\\Pinball\\Tables\\!Fire\\Images\\Red peg.png",
+    "alpha_test_value": 128.0,
+    "jpeg_name": "Red peg"
+  },
+  {
+    "name": "ApronGenericWilliams",
+    "path": "E:\\Pinball\\Tables\\!Fire\\Images\\ApronGenericWilliams.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "PlungerCover",
+    "path": "E:\\Pinball\\Tables\\!Fire\\Images\\PlungerCover.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "emkicker-t1",
+    "path": "C:\\UPin\\emkicker-t1.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "rubber-emwheel",
+    "path": "C:\\Program Files (x86)\\Pinball\\Tables\\vp10 materials\\rubber-emwheel.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "rubber-post-t1-black",
+    "path": "C:\\UPin\\rubber-post-t1-black.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "bumper-cap-t2(2)",
+    "path": "C:\\UPin\\bumper-cap-t2(2).png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "bumper-cap-t2",
+    "path": "C:\\UPin\\bumper-cap-t2.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "bumper-cap-t3",
+    "path": "C:\\UPin\\bumper-cap-t3.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "bumper-cap-t4",
+    "path": "C:\\UPin\\bumper-cap-t4.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "bumper-cap-t5",
+    "path": "C:\\UPin\\bumper-cap-t5.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "Left_rail_brighter",
+    "path": "E:\\Pinball\\Tables\\Materials\\Left_rail_brighter.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "Right_rail_brighter",
+    "path": "E:\\Pinball\\Tables\\Materials\\Right_rail_brighter.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "LockdownBarreal-JR",
+    "path": "E:\\Pinball\\Tables\\Materials\\LockdownBarreal-JR.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "ColorGradeLUT256x16_1to1",
+    "path": "C:\\ColorGradeLUT256x16_1to1.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "ColorGradeLUT256x16_ConSat",
+    "path": "C:\\ColorGradeLUT256x16_ConSat.png",
+    "alpha_test_value": 128.0
+  },
+  {
+    "name": "CustomBlackTip",
+    "path": "D:\\temp\\CustomBlackTip.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "CustomWhiteTip",
+    "path": "D:\\temp\\CustomWhiteTip.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "flipperImage-test",
+    "path": "E:\\\\flipperImage-test.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "flipperImage-testW",
+    "path": "E:\\\\flipperImage-testW.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "ball_HDR",
+    "path": "C:\\ball_HDR.hdr",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "DropTargetBeveled",
+    "path": "E:\\Tables\\Models\\DropTargetBeveled.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "DropTargetSimple",
+    "path": "E:\\Tables\\Models\\DropTargetSimple.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "HitTarget",
+    "path": "E:\\Tables\\Models\\HitTarget.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "DropTargetFlatSimple",
+    "path": "E:\\Tables\\Models\\HitTargetFlatSimple.png",
+    "alpha_test_value": 1.0,
+    "jpeg_name": "HitTargetFlatSimple"
+  },
+  {
+    "name": "ColorGradeLUT256x16_Sepia",
+    "path": "C:\\ColorGradeLUT256x16_Sepia.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "angle",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\angle.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "inches",
+    "path": "C:\\inches.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "inchesandmm",
+    "path": "C:\\inchesandmm.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "mm",
+    "path": "C:\\mm.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "ballshadow",
+    "path": "C:\\Users\\HP i7\\Downloads\\VP_old\\makeover stuff\\ballshadow.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "flippers_shadow",
+    "path": "C:\\Users\\HP i7\\Downloads\\VP_old\\makeover stuff\\flippers_shadow.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "flipper_gottlieb_left",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\Gottlieb_big_Flipper\\flipper_gottlieb_left2.png",
+    "alpha_test_value": 1.0,
+    "jpeg_name": "flipper_gottlieb_left2"
+  },
+  {
+    "name": "flipper_gottlieb_right",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\Gottlieb_big_Flipper\\flipper_gottlieb_right2.png",
+    "alpha_test_value": 1.0,
+    "jpeg_name": "flipper_gottlieb_right2"
+  },
+  {
+    "name": "bally_miniflipper_left",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\bally_miniflipper\\bally_miniflipper_left.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "bally_miniflipper_right",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\bally_miniflipper\\bally_miniflipper_right.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "flipper_williams_logo_Left",
+    "path": "C:\\VPX4\\tables\\makeover stuff\\flipper_williams_logo_Left.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "flipper_williams_logo_Right",
+    "path": "C:\\VPX4\\tables\\makeover stuff\\flipper_williams_logo_Right.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "gottlieb_flipper_red",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\newer_gottlieb_flipper\\gottlieb_flipper_red.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "gottlieb_mini_flipper_left",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\gottlieb_mini_flipper\\gottlieb_mini_flipper_left.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "gottlieb_mini_flipper_right",
+    "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\gottlieb_mini_flipper\\gottlieb_mini_flipper_right.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "flipper_yellow_red_Left",
+    "path": "C:\\VPX4\\tables\\makeover stuff\\flipper_yellow_red_Left.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "flipper_yellow_red_Right",
+    "path": "C:\\VPX4\\tables\\makeover stuff\\flipper_yellow_red_Right.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "shinyenvironment3blur4",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Art Resources\\shinyenvironment3blur4.hdr",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "plastics",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\plastics.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "playfield-4k",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\playfield-4k.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "TargetMapClear",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\TargetMapClear.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "TargetNormalMap",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\TargetNormalMap.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "TargetPartsMap",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\TargetPartsMap.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "T1_kicker_arm_map",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\T1_kicker_arm_map.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "T1_kicker_map",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\T1_kicker_map.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "ScrewMap",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\ScrewMap.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "ScrewNormalMap488",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\ScrewNormalMap488.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "Spotlight_Beam",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\Spotlight_Beam.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domebluebase",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domebluebase.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domeblueflash",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domeblueflash.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domebluelit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domebluelit.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domegreenflash",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domegreenflash.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domepurpleflash",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domepurpleflash.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domeredbase",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domeredbase.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domeredflash2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domeredflash2.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domeredlit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domeredlit.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domewhitebase",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domewhitebase.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domewhiteflash",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domewhiteflash.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domewhitelit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domewhitelit.png",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domeyellowbase",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domeyellowbase.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domeyellowflash",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domeyellowflash.jpg",
+    "alpha_test_value": 1.0
+  },
+  {
+    "name": "domeyellowlit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\Orbital Framework\\artwork\\domeyellowlit.png",
+    "alpha_test_value": 1.0
+  }
+]

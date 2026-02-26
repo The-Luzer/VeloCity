@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1096.3696,
+      "y": 376.69724
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 35,
+    "name": "FlashTimerLeft",
+    "backglass": false
+  }
+}

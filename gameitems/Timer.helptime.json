@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1153.0,
+      "y": 766.0
+    },
+    "is_timer_enabled": true,
+    "timer_interval": 1000,
+    "name": "helptime",
+    "backglass": false
+  }
+}

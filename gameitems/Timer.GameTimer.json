@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1107.268,
+      "y": 173.49196
+    },
+    "is_timer_enabled": true,
+    "timer_interval": 20,
+    "name": "GameTimer",
+    "backglass": false
+  }
+}

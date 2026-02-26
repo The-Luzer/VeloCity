@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1176.4456,
+      "y": 376.1193
+    },
+    "is_timer_enabled": true,
+    "timer_interval": 50,
+    "name": "lrflashtime",
+    "backglass": false
+  }
+}

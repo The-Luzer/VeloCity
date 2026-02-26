@@ -1,0 +1,88 @@
+[
+  {
+    "name": "GI",
+    "items": [],
+    "fire_events": false,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Rubbers",
+    "items": [
+      "Rubber9",
+      "Rubber16",
+      "Rubber17",
+      "Rubber18",
+      "LSling",
+      "RSling"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Posts",
+    "items": [
+      "Primitive22"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Pins",
+    "items": [
+      "Pin1",
+      "Pin2"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Targets",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Metals_Thin",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Metals_Medium",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Metals2",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Gates",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "alights",
+    "items": [
+      "l11",
+      "l12",
+      "l13"
+    ],
+    "fire_events": false,
+    "stop_single_events": false,
+    "group_elements": false
+  }
+]

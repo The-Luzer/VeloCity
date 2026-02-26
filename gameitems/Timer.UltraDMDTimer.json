@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1147.321,
+      "y": 219.37717
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 1000,
+    "name": "UltraDMDTimer",
+    "backglass": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1182.0475,
+      "y": 334.0914
+    },
+    "is_timer_enabled": true,
+    "timer_interval": 50,
+    "name": "GIUpdateTimer",
+    "backglass": false
+  }
+}

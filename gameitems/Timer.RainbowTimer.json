@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1217.2421,
+      "y": 379.04062
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 20,
+    "name": "RainbowTimer",
+    "backglass": false
+  }
+}

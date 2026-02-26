@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -1110.7609,
+      "y": 129.99081
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 20000,
+    "name": "BallSaverTimerExpired",
+    "backglass": false
+  }
+}

@@ -1,0 +1,1190 @@
+[
+  {
+    "name": "Autoplunger",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Autoplunger.wav",
+    "internal_name": "autoplunger",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "ball_trough",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\ball_trough.wav",
+    "internal_name": "ball_trough",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "BallRelease",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\BallRelease.wav",
+    "internal_name": "ballrelease",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "Bridge_Move",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Bridge_Move.wav",
+    "internal_name": "bridge_move",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "Bridge_Stop",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Bridge_Stop.wav",
+    "internal_name": "bridge_stop",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "buzz",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\buzz.wav",
+    "internal_name": "buzz",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "backglass"
+  },
+  {
+    "name": "drachit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\drachit.wav",
+    "internal_name": "drachit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "drop_mono",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\drop_mono.wav",
+    "internal_name": "drop_mono",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "Flipper_Down",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Flipper_Down.wav",
+    "internal_name": "flipper_down",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "FlipperUpLeft",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\FlipperUpLeft.wav",
+    "internal_name": "flipperupleft",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "flute",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\flute.wav",
+    "internal_name": "flute",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "backglass"
+  },
+  {
+    "name": "frankhit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\frankhit.wav",
+    "internal_name": "frankhit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_balldrop",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_balldrop.wav",
+    "internal_name": "fx_balldrop",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_ballrampdrop",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_ballrampdrop.wav",
+    "internal_name": "fx_ballrampdrop",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_ballrel",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_ballrel.wav",
+    "internal_name": "fx_ballrel",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_ballrolling0",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_ballrolling0.wav",
+    "internal_name": "fx_ballrolling0",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_ballrolling1",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_ballrolling1.wav",
+    "internal_name": "fx_ballrolling1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_ballrolling2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_ballrolling2.wav",
+    "internal_name": "fx_ballrolling2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_ballrolling3",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_ballrolling3.wav",
+    "internal_name": "fx_ballrolling3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_ballrolling4",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_ballrolling4.wav",
+    "internal_name": "fx_ballrolling4",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_ballrolling5",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_ballrolling5.wav",
+    "internal_name": "fx_ballrolling5",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_ballrolling6",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_ballrolling6.wav",
+    "internal_name": "fx_ballrolling6",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_bumper",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_bumper.wav",
+    "internal_name": "fx_bumper",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_coin",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_coin.wav",
+    "internal_name": "fx_coin",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_collide",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_collide.wav",
+    "internal_name": "fx_collide",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_diverter",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_diverter.wav",
+    "internal_name": "fx_diverter",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_drain",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_drain.wav",
+    "internal_name": "fx_drain",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_droptarget",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_droptarget.wav",
+    "internal_name": "fx_droptarget",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_flip_hit_1",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_flip_hit_1.wav",
+    "internal_name": "fx_flip_hit_1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_flip_hit_2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_flip_hit_2.wav",
+    "internal_name": "fx_flip_hit_2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_flip_hit_3",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_flip_hit_3.wav",
+    "internal_name": "fx_flip_hit_3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_flipperDown",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_flipperDown.wav",
+    "internal_name": "fx_flipperdown",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_Flipperup",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_Flipperup.wav",
+    "internal_name": "fx_flipperup",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_gate",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_gate.wav",
+    "internal_name": "fx_gate",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_gate4",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_gate4.wav",
+    "internal_name": "fx_gate4",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_Hole1",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_Hole1.wav",
+    "internal_name": "fx_hole1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_Hole2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_Hole2.wav",
+    "internal_name": "fx_hole2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_Hole3",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_Hole3.wav",
+    "internal_name": "fx_hole3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_hole-enter",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_hole-enter.wav",
+    "internal_name": "fx_hole-enter",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_kicker",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_kicker.wav",
+    "internal_name": "fx_kicker",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_kicker_catch",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_kicker_catch.wav",
+    "internal_name": "fx_kicker_catch",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_kicker_enter",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_kicker_enter.wav",
+    "internal_name": "fx_kicker_enter",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_kicker2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_kicker2.wav",
+    "internal_name": "fx_kicker2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_knocker",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_knocker.wav",
+    "internal_name": "fx_knocker",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_launchball",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_launchball.wav",
+    "internal_name": "fx_launchball",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_lrenter",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_lrenter.wav",
+    "internal_name": "fx_lrenter",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_metalrolling",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_metalrolling.wav",
+    "internal_name": "fx_metalrolling",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_mine_enter",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_mine_enter.wav",
+    "internal_name": "fx_mine_enter",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_mine_motor",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_mine_motor.wav",
+    "internal_name": "fx_mine_motor",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_mine_popper",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_mine_popper.wav",
+    "internal_name": "fx_mine_popper",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_motor",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_motor.wav",
+    "internal_name": "fx_motor",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_nudge",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_nudge.wav",
+    "internal_name": "fx_nudge",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_plastichit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_plastichit.wav",
+    "internal_name": "fx_plastichit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_plunger",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_plunger.wav",
+    "internal_name": "fx_plunger",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_plungerpull",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_plungerpull.wav",
+    "internal_name": "fx_plungerpull",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_popper",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_popper.wav",
+    "internal_name": "fx_popper",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_postrubber",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_postrubber.wav",
+    "internal_name": "fx_postrubber",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_resetdrop",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_resetdrop.wav",
+    "internal_name": "fx_resetdrop",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_rubber",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_rubber.wav",
+    "internal_name": "fx_rubber",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_rubber_band",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_rubber_band.wav",
+    "internal_name": "fx_rubber_band",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_rubber_flipper",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_rubber_flipper.wav",
+    "internal_name": "fx_rubber_flipper",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_rubber_hit_1",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_rubber_hit_1.wav",
+    "internal_name": "fx_rubber_hit_1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_rubber_hit_2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_rubber_hit_2.wav",
+    "internal_name": "fx_rubber_hit_2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_rubber_hit_3",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_rubber_hit_3.wav",
+    "internal_name": "fx_rubber_hit_3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_rubber2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_rubber2.wav",
+    "internal_name": "fx_rubber2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_saucerHit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_saucerHit.wav",
+    "internal_name": "fx_saucerhit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_sensor",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_sensor.wav",
+    "internal_name": "fx_sensor",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_slingshot",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_slingshot.wav",
+    "internal_name": "fx_slingshot",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_solenoid",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_solenoid.wav",
+    "internal_name": "fx_solenoid",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_solenoidoff",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_solenoidoff.wav",
+    "internal_name": "fx_solenoidoff",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_solenoidoffVAR",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_solenoidoffVAR.wav",
+    "internal_name": "fx_solenoidoffvar",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_solenoidon",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_solenoidon.wav",
+    "internal_name": "fx_solenoidon",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_solenoidonVAR",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_solenoidonVAR.wav",
+    "internal_name": "fx_solenoidonvar",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_spinner",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_spinner.wav",
+    "internal_name": "fx_spinner",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_target",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_target.wav",
+    "internal_name": "fx_target",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_wireramp_exit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_wireramp_exit.wav",
+    "internal_name": "fx_wireramp_exit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_wirerampexit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_wirerampexit.wav",
+    "internal_name": "fx_wirerampexit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "fx_woodhit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\fx_woodhit.wav",
+    "internal_name": "fx_woodhit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "gate4",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\gate4.wav",
+    "internal_name": "gate4",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "IdolMotor",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\IdolMotor.wav",
+    "internal_name": "idolmotor",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "IdolReleaseOff",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\IdolReleaseOff.wav",
+    "internal_name": "idolreleaseoff",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "IdolReleaseOn",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\IdolReleaseOn.wav",
+    "internal_name": "idolreleaseon",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "kicker_enter_center",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\kicker_enter_center.wav",
+    "internal_name": "kicker_enter_center",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "Kicker_Hit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Kicker_Hit.wav",
+    "internal_name": "kicker_hit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "Kicker_Release",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Kicker_Release.wav",
+    "internal_name": "kicker_release",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "knocker",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\knocker.wav",
+    "internal_name": "knocker",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "lane",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\lane.wav",
+    "internal_name": "lane",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "backglass"
+  },
+  {
+    "name": "LeftEject",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\LeftEject.wav",
+    "internal_name": "lefteject",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "lo1",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\lo1.wav",
+    "internal_name": "lo1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "backglass"
+  },
+  {
+    "name": "lo2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\lo2.wav",
+    "internal_name": "lo2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "backglass"
+  },
+  {
+    "name": "LockupPin",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\LockupPin.wav",
+    "internal_name": "lockuppin",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "pinhit_low",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\pinhit_low.wav",
+    "internal_name": "pinhit_low",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "plastichit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\plastichit.wav",
+    "internal_name": "plastichit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "PlayfieldHit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\PlayfieldHit.wav",
+    "internal_name": "playfieldhit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "plunger",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\plunger.wav",
+    "internal_name": "plunger",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "plunger2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\plunger2.wav",
+    "internal_name": "plunger2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "plunger3",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\plunger3.wav",
+    "internal_name": "plunger3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "plungerpull",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\plungerpull.wav",
+    "internal_name": "plungerpull",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "popper",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\popper.wav",
+    "internal_name": "popper",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "popper_ball",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\popper_ball.wav",
+    "internal_name": "popper_ball",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "powerdownn",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\powerdownn.wav",
+    "internal_name": "powerdownn",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "backglass"
+  },
+  {
+    "name": "ramp_hit1",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\ramp_hit1.wav",
+    "internal_name": "ramp_hit1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "ramp_hit2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\ramp_hit2.wav",
+    "internal_name": "ramp_hit2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "ramp_hit3",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\ramp_hit3.wav",
+    "internal_name": "ramp_hit3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "rampbump1",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\rampbump1.wav",
+    "internal_name": "rampbump1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "rampbump2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\rampbump2.wav",
+    "internal_name": "rampbump2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "rampbump3",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\rampbump3.wav",
+    "internal_name": "rampbump3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "rampbump4",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\rampbump4.wav",
+    "internal_name": "rampbump4",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "rampbump5",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\rampbump5.wav",
+    "internal_name": "rampbump5",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "rampbump6",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\rampbump6.wav",
+    "internal_name": "rampbump6",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "rampbump7",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\rampbump7.wav",
+    "internal_name": "rampbump7",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "Scoop_Enter",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Scoop_Enter.wav",
+    "internal_name": "scoop_enter",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "Scoop_Enter2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Scoop_Enter2.wav",
+    "internal_name": "scoop_enter2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "SubWayRelease",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\SubWayRelease.wav",
+    "internal_name": "subwayrelease",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "success",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\success.wav",
+    "internal_name": "success",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "backglass"
+  },
+  {
+    "name": "target",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\target.wav",
+    "internal_name": "target",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "TargetHit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\TargetHit.wav",
+    "internal_name": "targethit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "TopBumper_Hit",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\TopBumper_Hit.wav",
+    "internal_name": "topbumper_hit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "TopPostDown",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\TopPostDown.wav",
+    "internal_name": "toppostdown",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "TopPostUp",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\TopPostUp.wav",
+    "internal_name": "toppostup",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "Trough1",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Trough1.wav",
+    "internal_name": "trough1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "Trough2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Trough2.wav",
+    "internal_name": "trough2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "Trough3",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\Trough3.wav",
+    "internal_name": "trough3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "wave",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\wave.wav",
+    "internal_name": "wave",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "backglass"
+  },
+  {
+    "name": "WireRamp1",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\WireRamp1.wav",
+    "internal_name": "wireramp1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "WireRampBump1",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\WireRampBump1.wav",
+    "internal_name": "wirerampbump1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "WireRampBump2",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\WireRampBump2.wav",
+    "internal_name": "wirerampbump2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "WireRampBump3",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\WireRampBump3.wav",
+    "internal_name": "wirerampbump3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "WireRampBump4",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\WireRampBump4.wav",
+    "internal_name": "wirerampbump4",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "WireRampBump5",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\WireRampBump5.wav",
+    "internal_name": "wirerampbump5",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "WoodHitAluminium",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\WoodHitAluminium.wav",
+    "internal_name": "woodhitaluminium",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "table"
+  },
+  {
+    "name": "zing",
+    "path": "C:\\Users\\scott\\Dropbox (Wick Creative)\\pin\\the Leprechaun King\\Audio\\sound pack\\zing.wav",
+    "internal_name": "zing",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": "backglass"
+  }
+]

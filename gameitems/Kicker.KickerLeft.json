@@ -1,0 +1,22 @@
+{
+  "Kicker": {
+    "center": {
+      "x": -1105.0814,
+      "y": 921.8705
+    },
+    "radius": 30.0,
+    "is_timer_enabled": false,
+    "timer_interval": 300,
+    "material": "Plastic",
+    "surface": "Wall008",
+    "is_enabled": true,
+    "name": "KickerLeft",
+    "kicker_type": "gottlieb",
+    "scatter": 2.0,
+    "hit_accuracy": 0.5,
+    "hit_height": 25.0,
+    "orientation": 167.0,
+    "fall_through": true,
+    "legacy_mode": true
+  }
+}
